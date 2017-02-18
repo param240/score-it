@@ -1,0 +1,3 @@
+rootProject.name = 'ScoreIt'
+
+include ':app'
